@@ -1,0 +1,17 @@
+{
+  "name": "dompurify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dompurify": "^2.0.8",
+    "express": "^4.21.1",
+    "jsdom": "^16.3.0"
+  }
+}
